@@ -1,12 +1,3 @@
-/*
-Theme Name: Lana
-Description: Creative Coming Soon Template
-Author: Erilisdesign
-Theme URI: https://preview.erilisdesign.com/html/lana/
-Author URI: https://themeforest.net/user/erilisdesign
-Version: 2.0
-License: https://themeforest.net/licenses/standard
-*/
 
 /*------------------------------------------------------------------
 [Table of contents]
@@ -160,7 +151,7 @@ anime.timeline({loop: true})
             anchors: anchors,
 
             //Scrolling
-            scrollingSpeed: 700,
+            scrollingSpeed: 500,
             autoScrolling: true,
             fitToSection: true,
             fitToSectionDelay: 700,

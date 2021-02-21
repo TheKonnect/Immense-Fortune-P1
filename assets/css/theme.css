@@ -86,7 +86,7 @@ body {
 
 .ml1 {
   font-weight: 900;
-  font-size: 3.5em;
+  font-size: 2.5em;
 }
 
 .ml1 .letter {
@@ -131,6 +131,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
+  text-transform: capitalize;
   margin-top: 0;
   margin-bottom: 1rem;
 }
@@ -16285,7 +16286,7 @@ section {
 .overlay .overlay-inner {
   position: absolute;
   top: 0;
-  bottom: 0;
+  bottom: -311px;
   left: 0;
   right: 0;
 }
